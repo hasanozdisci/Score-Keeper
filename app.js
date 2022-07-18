@@ -1,4 +1,4 @@
-// 
+// player1 and player2 objects
 const p1 = {
     score: 0,
     button: document.querySelector('#p1Button'),
@@ -15,6 +15,7 @@ const winningScoreSelect = document.querySelector('#playto');
 let winningScore = 3;
 let isGameOver = false;
 
+// update scores
 function updateScores(player, opponent) {
     if (!isGameOver) {
         player.score += 1;
