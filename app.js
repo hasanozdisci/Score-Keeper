@@ -15,7 +15,7 @@ const winningScoreSelect = document.querySelector('#playto');
 let winningScore = 3;
 let isGameOver = false;
 
-// updates scores
+// Updates scores
 function updateScores(player, opponent) {
     if (!isGameOver) {
         player.score += 1;
