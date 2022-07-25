@@ -4,6 +4,7 @@
 
 - A simple score keeping app for two players. 
 - The first player who reaches the number we set wins the game
+- [Project Link](https://hasanozdisci.github.io/Score-Keeper/)
 
 <img src = "./gif/unknown_2022.07.17-15.04_clip_1_Trim.gif"> 
 
